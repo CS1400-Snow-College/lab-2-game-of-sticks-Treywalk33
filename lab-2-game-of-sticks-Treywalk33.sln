@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "lab-2-game-of-sticks-Treywalk33", "lab-2-game-of-sticks-Treywalk33.csproj", "{90AEA89F-6EE0-4DE4-97CD-19B4D1B52A72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90AEA89F-6EE0-4DE4-97CD-19B4D1B52A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90AEA89F-6EE0-4DE4-97CD-19B4D1B52A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90AEA89F-6EE0-4DE4-97CD-19B4D1B52A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90AEA89F-6EE0-4DE4-97CD-19B4D1B52A72}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E46D149C-DA37-4845-82CD-63019ABA0FDF}
+	EndGlobalSection
+EndGlobal
